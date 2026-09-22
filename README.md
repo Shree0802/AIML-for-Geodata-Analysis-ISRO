@@ -5,6 +5,7 @@ A structured repository documenting my learning journey through the **AI/ML for 
 This repository contains the course lectures, study materials, and completion certificate collected during the programme.
 
 ---
+![General](General.png)
 
 ## 📌 About the Course
 
@@ -69,6 +70,8 @@ The repository includes the lectures covered during the programme.
 
 👉 Complete lecture links are available in the [`Lectures`](./Lectures) folder.
 
+![Lectures](Lectures.png)
+
 ---
 
 ## 📖 Study Materials
@@ -88,6 +91,8 @@ The `Study_Material` folder contains the learning resources and lecture material
 
 📂 [View Study Materials](./Study_Material)
 
+![Study_Material](Study_Material.png)
+
 ---
 
 ## 🏆 Achievement
@@ -99,6 +104,8 @@ The completion certificate is available in:
 📂 [`Achievements/`](./Achievements)
 
 📜 [View Completion Certificate](./Achievements/Completion_Certificate.pdf)
+
+![Completion Certificate](Completion_Certificate.png)
 
 ---
 
