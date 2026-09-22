@@ -105,7 +105,7 @@ The completion certificate is available in:
 
 📜 [View Completion Certificate](./Achievements/Completion_Certificate.pdf)
 
-![Completion Certificate](Completion_Certificate.png)
+![Completeion_Certificate](Completeion_Certificate.png)
 
 ---
 
